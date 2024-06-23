@@ -7,5 +7,5 @@
 - Visualizations was made in Tableau. All dashboards are available on Tableau Public.
 
 ### Links
-[Tableau Public: Dashboard 1](https://public.tableau.com/app/profile/rachalle.ann.olila/viz/NYPDCrimeAnalysis_17166542152180/Dashboard1)
-[Tableau Public: Dashboard 2](https://public.tableau.com/app/profile/rachalle.ann.olila/viz/NYPDCrimeAnalysisprecinct/Dashboard2)
+- [Tableau Public: Dashboard 1](https://public.tableau.com/app/profile/rachalle.ann.olila/viz/NYPDCrimeAnalysis_17166542152180/Dashboard1)
+- [Tableau Public: Dashboard 2](https://public.tableau.com/app/profile/rachalle.ann.olila/viz/NYPDCrimeAnalysisprecinct/Dashboard2)
